@@ -1,0 +1,144 @@
+{
+  "main": {
+    "id": "4e0be0b4ccb10122",
+    "type": "split",
+    "children": [
+      {
+        "id": "6fc3228003c3d445",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "NOTA DO DIA.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "1755fc78827df199",
+    "type": "split",
+    "children": [
+      {
+        "id": "77c1d1c9328de07b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d1b595ad70302f36",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "14c8cda3ae278543",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": true,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "325758920e372390",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "df36ed04d8cf137b",
+    "type": "split",
+    "children": [
+      {
+        "id": "adbda15be7c0a4b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9297cbac556de77d",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "NOTA DO DIA.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7cdf8c95638ac9cb",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "NOTA DO DIA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "15b56005d5536612",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a693082ca420af97",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "NOTA DO DIA.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "d1b595ad70302f36",
+  "lastOpenFiles": [
+    "Bloco de Notas Conexa/Links Prod - HML - Figma.md",
+    "NOTA DO DIA.md",
+    "Bloco de Notas Conexa/Links de acesso Conexa.md",
+    "Bloco de Notas Conexa/GIT - Brachs - Padrões.md",
+    "Bloco de Notas Conexa/Categorias  e especialidades Medicas.md",
+    "Bloco de Notas Conexa/Token.md",
+    "Youtube/Fotos Youtube/Pasted image 20220926135406.png",
+    "Youtube/Youtube TAG MANAGER.md",
+    "Aula Victor/Conexa Saúde informações Tagueamento.md",
+    "Aula Victor/Pasted image 20220922000324.png"
+  ]
+}
