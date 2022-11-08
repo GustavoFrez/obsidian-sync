@@ -1,3 +1,22 @@
+
+
+Clinica teste adelfos = Produto Conexa / KEY 9abd
+Muda o produto da clinica e não muda a KEY
+
+---------------------------------------------------------------
+
+Medic Costa = produto docpass
+
+
+
+
+
+
+
+
+
+
+
 Trabalho nessa 2552 - Pull
 
 ### Tagueamento Braze

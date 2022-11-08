@@ -4,19 +4,8 @@ USUARIO BACKOFFICE
 carolina.castro@conexasaude.com.br
 12345678
 
-VPN
-89753648
-
-Gsuite
-gustavo.frez@conexasaude.com.br
-Senha:  @Conexa1507*
-
 gmail: gustavofrezcnx@gmail.com
 senha @Conexa1507*
-
-RH - Contra Cheque
-http://www.adpexpert.com.br/instructions
-usuario: gustavo.frez / senha: @DUnamis123*
 
 ConexaLab:
 https://lab.conexasaude.com.br/login/index.php
