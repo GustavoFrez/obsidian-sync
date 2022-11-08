@@ -12,11 +12,6 @@ https://lab.conexasaude.com.br/login/index.php
       Login: CPF (sem traços e ponto)
       Senha: Gustavo123*
 
-Plataforma Feedz
-https://app.feedz.com.br
-      Login:  gustavo.frez@conexasaude.com.br
-      Senha: @Conexa1507* 
-
 Intranet: 
 conexasaude.com.br/intranet
 
