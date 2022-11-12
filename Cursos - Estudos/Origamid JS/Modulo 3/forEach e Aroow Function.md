@@ -39,6 +39,19 @@ titulosArray.forEach((item) => {
 })
 ~~~
 
+#### forEach e Eventos
 
+O método <span style="color:green">addEventListerner</span> é adicionado a à um único element, então é necessário um loop entre elementos de uma lista, para adicionarmos à cada um deles.
 
+~~~ JavaScript
+const imgs = document.querySelectorAll('img')
+
+function imgSrc(event) {
+	const src = event.currentTarget.getAttribute('src') 
+}
+
+imgs.forEach((img) => {
+	img.addEventListener('click', imgSrc)
+})
+~~~
 

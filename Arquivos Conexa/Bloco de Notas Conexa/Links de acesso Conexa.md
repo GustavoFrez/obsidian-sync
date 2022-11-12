@@ -4,9 +4,6 @@ USUARIO BACKOFFICE
 carolina.castro@conexasaude.com.br
 12345678
 
-gmail: gustavofrezcnx@gmail.com
-senha @Conexa1507*
-
 ConexaLab:
 https://lab.conexasaude.com.br/login/index.php
       Login: CPF (sem traços e ponto)
