@@ -4,28 +4,28 @@
     "type": "split",
     "children": [
       {
-        "id": "31c41b34e5bc06ba",
+        "id": "534593f5e7c82cdf",
         "type": "tabs",
         "children": [
           {
-            "id": "8645f8f6d7c8d880",
+            "id": "a8772b93d62cf64b",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cursos - Estudos/Origamid JS/Modulo 3/Seleção e Elementos.md",
+                "file": "Cursos - Estudos/Origamid JS/Modulo 4/Constructor Functions.md",
                 "mode": "source",
                 "source": false
               }
             }
           },
           {
-            "id": "e9f71a94db811c64",
+            "id": "3627b82ae773cf6f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquivos Conexa/Bloco de Notas Conexa/Categorias  e especialidades Medicas.md",
+                "file": "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos Conexa/Bloco de Notas Conexa/Categorias  e especialidades Medicas.md",
+                "file": "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos Conexa/Bloco de Notas Conexa/Categorias  e especialidades Medicas.md",
+                "file": "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos Conexa/Bloco de Notas Conexa/Categorias  e especialidades Medicas.md"
+                "file": "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md"
               }
             }
           }
@@ -149,17 +149,17 @@
     "width": 300,
     "collapsed": true
   },
-  "active": "e9f71a94db811c64",
+  "active": "3627b82ae773cf6f",
   "lastOpenFiles": [
-    "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md",
-    "Arquivos Conexa/Bloco de Notas Conexa/Links Prod - HML - Figma.md",
-    "Arquivos Conexa/Bloco de Notas Conexa/Links de acesso Conexa.md",
-    "Arquivos Conexa/Bloco de Notas Conexa/Token.md",
-    "Arquivos Conexa/Bloco de Notas Conexa/Pasted image 20221109111039.png",
-    "Cursos - Estudos/Origamid JS/Modulo 3/forEach e Aroow Function.md",
-    "Cursos - Estudos/Origamid JS/Modulo 3/Classes e Atributos.md",
+    "Arquivos Conexa/Bloco de Notas Conexa/GIT - Brachs - Padrões.md",
+    "Cursos - Estudos/Origamid JS/Modulo 3/Traversing e Manipulação.md",
     "Cursos - Estudos/Origamid JS/Modulo 3/Eventos.md",
+    "Cursos - Estudos/Origamid JS/Modulo 2/Escopo - Const e Let.md",
+    "Cursos - Estudos/Origamid JS/Modulo 3/forEach e Aroow Function.md",
+    "Cursos - Estudos/Origamid JS/Modulo 3/DOM.md",
     "Cursos - Estudos/Origamid JS/Modulo 3/Dimensões e Distâncias.md",
-    "Documentação/JS/Observações.md"
+    "Cursos - Estudos/Origamid JS/Modulo 3/Classes e Atributos.md",
+    "Arquivos Conexa/Bloco de Notas Conexa/Links Prod - HML - Figma.md",
+    "Arquivos Conexa/Bloco de Notas Conexa/Links de acesso Conexa.md"
   ]
 }
