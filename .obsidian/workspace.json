@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md",
+                "file": "Cursos - Estudos/Origamid JS/Modulo 4/Prototype.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md",
+                "file": "Cursos - Estudos/Origamid JS/Modulo 4/Prototype.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md",
+                "file": "Cursos - Estudos/Origamid JS/Modulo 4/Prototype.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md"
+                "file": "Cursos - Estudos/Origamid JS/Modulo 4/Prototype.md"
               }
             }
           }
@@ -151,15 +151,15 @@
   },
   "active": "3627b82ae773cf6f",
   "lastOpenFiles": [
+    "Arquivos Conexa/Bloco de Notas Conexa/Categorias  e especialidades Medicas.md",
+    "Arquivos Conexa/Bloco de Notas Conexa/Conflito Branch Develop.md",
+    "Cursos - Estudos/Origamid JS/Modulo 4/Prototype.md",
+    "Arquivos Conexa/Bloco de Notas Conexa/Links de acesso Conexa.md",
     "Arquivos Conexa/Bloco de Notas Conexa/GIT - Brachs - Padrões.md",
     "Cursos - Estudos/Origamid JS/Modulo 3/Traversing e Manipulação.md",
     "Cursos - Estudos/Origamid JS/Modulo 3/Eventos.md",
     "Cursos - Estudos/Origamid JS/Modulo 2/Escopo - Const e Let.md",
     "Cursos - Estudos/Origamid JS/Modulo 3/forEach e Aroow Function.md",
-    "Cursos - Estudos/Origamid JS/Modulo 3/DOM.md",
-    "Cursos - Estudos/Origamid JS/Modulo 3/Dimensões e Distâncias.md",
-    "Cursos - Estudos/Origamid JS/Modulo 3/Classes e Atributos.md",
-    "Arquivos Conexa/Bloco de Notas Conexa/Links Prod - HML - Figma.md",
-    "Arquivos Conexa/Bloco de Notas Conexa/Links de acesso Conexa.md"
+    "Cursos - Estudos/Origamid JS/Modulo 3/DOM.md"
   ]
 }

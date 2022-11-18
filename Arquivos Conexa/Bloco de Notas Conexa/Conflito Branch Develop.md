@@ -23,8 +23,8 @@
 - Arrasta a MASTER para minha BRANCH (2255)
 - Merge  MASTER into minha BRANCH
 - Resolve o conflito / save
-- Commit e merge
 - Roda o yarn start:hml
+- Commit e merge
 - Confirma que esta na minha branch
 - Push
 
